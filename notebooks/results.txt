@@ -1,0 +1,310 @@
+ "Instance name" n N S M F A
+0  2000 5 True  0 False
+1  20 1 True  0 False
+2  254 -1 - -1 -1 False
+3  1000 -1 False  2 False
+4  3000 6 True  0 False
+5  20 1 False  2 False
+6  2500 4 False  1 True
+7  8000 1 False  0 False
+8  3000 6 False  2 False
+9  1000 7 False  0 False
+10  253 -1 - 14 9 False
+11  14 1 True  0 False
+12  5000 6 False  1 True
+13  1500 -1 False  -1 False
+14  252 -1 - 10 3 False
+15  8 1 True  0 False
+16  625 324 True  0 True
+17  3500 6 False  1 False
+18  5000 -1 False  -1 False
+19  7001 1 False  0 False
+20  400 14 False  1 True
+21  20 -1 - -1 -1 False
+22  400 8 True  0 False
+23  3000 14 True  0 False
+24  5000 -1 False  -1 False
+25  26 1 True  0 False
+26  625 123 True  0 True
+27  20 -1 False  -1 False
+28  2000 -1 False  2 True
+29  6002 1 True  0 False
+30  4000 15 False  1 False
+31  4500 4 True  0 False
+32  250 -1 False  -1 False
+33  10 1 True  0 False
+34  20 -1 - -1 -1 False
+35  70001 1 False  0 False
+36  20 1 - 5 1 True
+37  10 1 False  1 True
+38  4000 7 False  0 False
+39  4000 4 False  1 True
+40  5757 6 False  0 False
+41  625 -1 True  5 True
+42  2000 8 True  0 False
+43  5757 4 True  0 False
+44  32 1 False  0 False
+45  50 -1 False  -1 False
+46  100 -1 - -1 -1 False
+47  3000 -1 True  2 False
+48  1000 -1 True  1 False
+49  60002 1 True  0 False
+50  3500 14 True  0 False
+51  1000 -1 True  2 False
+52  3000 10 True  0 False
+53  3000 6 False  1 False
+54  100 1 - 13 2 True
+55  4500 4 False  1 True
+56  2000 5 True  0 False
+57  5757 4 False  1 True
+58  4000 4 True  0 False
+59  2000 6 True  0 False
+60  100 -1 - -1 -1 False
+61  16 1 False  0 False
+62  25 14 True  0 True
+63  250 -1 False  -1 False
+64  2000 4 False  1 True
+65  2500 4 True  0 False
+66  25 8 True  0 True
+67  24 1 False  0 False
+68  8 1 True  0 False
+69  5000 7 True  0 False
+70  1600 8 True  0 False
+71  80000 1 False  0 False
+72  1000 -1 False  -1 False
+73  1600 13 False  1 True
+74  25 -1 True  1 True
+75  20 -1 False  -1 False
+76  2500 521 True  0 False
+77  500 1 - 16 1 True
+78  100 6 True  0 False
+79  10 1 - 2 1 True
+80  4500 7 True  0 False
+81  100 -1 False  -1 False
+82  100 8 True  0 True
+83  500 1 - 15 1 True
+84  800 1 False  0 False
+85  4000 6 False  1 False
+86  2500 1249 True  0 False
+87  5757 7 True  0 False
+88  16 5 - 3 1 True
+89  3500 4 False  1 True
+90  15 5 - 1 0 False
+91  36 8 - 1 0 False
+92  9 2 False  1 False
+93  2500 -1 False  11 False
+94  500 1 - 15 2 True
+95  10 1 - 3 2 True
+96  10 -1 - -1 -1 False
+97  3000 4 True  0 False
+98  9 4 False  1 False
+99  14 5 - 1 0 False
+100  62 1 True  0 False
+101  76 -1 - 4 1 False
+102  5000 5 False  2 False
+103  1500 4 False  1 True
+104  5000 4 False  1 True
+105  8 1 - 1 0 True
+106  17 10 True  0 False
+107  8 1 - 1 1 True
+108  5000 5 False  1 True
+109  29 -1 - 3 1 False
+110  77 -1 - 7 4 False
+111  2000 -1 False  -1 False
+112  500 -1 False  -1 False
+113  900 9 True  0 False
+114  79 -1 - -1 -1 False
+115  27 7 - 0 0 False
+116  8 1 - 2 1 True
+117  26 -1 - 2 1 False
+118  2500 6 False  1 False
+119  701 1 False  0 False
+120  900 11 False  1 True
+121  5000 4 True  0 False
+122  8 1 True  0 False
+123  3 -1 True  1 True
+124  1000 4 False  1 True
+125  15 1 False  0 False
+126  2000 -1 False  -1 False
+127  22 1 False  0 False
+128  2500 -1 False  -1 False
+129  100 -1 False  -1 False
+130  4500 6 False  1 True
+131  100 49 True  0 False
+132  500 4 False  1 True
+133  2500 -1 False  2 True
+134  5757 6 False  1 True
+135  2500 3 True  0 False
+136  50 -1 - -1 -1 False
+137  4000 13 True  0 False
+138  50 -1 False  -1 False
+139  100 29 True  0 False
+140  4000 6 False  2 True
+141  80 1 False  0 False
+142  29 1 False  0 False
+143  50 1 - 4 1 True
+144  10 3 False  1 False
+145  3500 4 True  0 False
+146  602 1 True  0 False
+147  50 1 - 5 1 True
+148  10 3 False  2 True
+149  8 3 True  0 True
+150  3000 4 False  1 True
+151  100 -1 True  2 True
+152  4000 5 True  0 False
+153  71 1 False  0 False
+ "Instance name" n N S M F A
+0 rusty-2-2000 2000 5 True - 0 False
+1 wall-p-3 20 1 True - 0 False
+2 ski-level20-3 254 -1 - -1 -1 False
+3 gnm-1000-2000-1 1000 -1 False - 2 False
+4 gnm-3000-6000-0 3000 6 True - 0 False
+5 dodecahedron 20 1 False - 2 False
+6 common-2-2500 2500 4 False - 1 True
+7 wall-n-1000 8000 1 False - 0 False
+8 gnm-3000-6000-1 3000 6 False - 2 False
+9 gnm-1000-2000-0 1000 7 False - 0 False
+10 ski-level20-2 253 -1 - 14 9 False
+11 wall-p-2 14 1 True - 0 False
+12 common-1-5000 5000 6 False - 1 True
+13 common-1-1500 1500 -1 False - -1 False
+14 ski-level20-1 252 -1 - 10 3 False
+15 wall-p-1 8 1 True - 0 False
+16 grid-25-0 625 324 True - 0 True
+17 common-1-3500 3500 6 False - 1 False
+18 gnm-5000-7500-1 5000 -1 False - -1 False
+19 wall-z-1000 7001 1 False - 0 False
+20 smallworld-20-1 400 14 False - 1 True
+21 increase-n20-1 20 -1 - -1 -1 False
+22 smallworld-20-0 400 8 True - 0 False
+23 rusty-1-3000 3000 14 True - 0 False
+24 gnm-5000-7500-0 5000 -1 False - -1 False
+25 wall-p-4 26 1 True - 0 False
+26 grid-25-1 625 123 True - 0 True
+27 common-2-20 20 -1 False - -1 False
+28 gnm-2000-3000-1 2000 -1 False - 2 True
+29 wall-p-1000 6002 1 True - 0 False
+30 gnm-4000-6000-1 4000 15 False - 1 False
+31 rusty-2-4500 4500 4 True - 0 False
+32 common-2-250 250 -1 False - -1 False
+33 gnm-10-15-0 10 1 True - 0 False
+34 increase-n20-3 20 -1 - -1 -1 False
+35 wall-z-10000 70001 1 False - 0 False
+36 increase-n20-2 20 1 - 5 1 True
+37 gnm-10-15-1 10 1 False - 1 True
+38 gnm-4000-6000-0 4000 7 False - 0 False
+39 common-2-4000 4000 4 False - 1 True
+40 bht 5757 6 False - 0 False
+41 grid-25-2 625 -1 True - 5 True
+42 gnm-2000-3000-0 2000 8 True - 0 False
+43 rusty-2-5757 5757 4 True - 0 False
+44 wall-n-4 32 1 False - 0 False
+45 common-2-50 50 -1 False - -1 False
+46 increase-n100-3 100 -1 - -1 -1 False
+47 gnm-3000-4500-1 3000 -1 True - 2 False
+48 gnm-1000-1500-0 1000 -1 True - 1 False
+49 wall-p-10000 60002 1 True - 0 False
+50 rusty-1-3500 3500 14 True - 0 False
+51 gnm-1000-1500-1 1000 -1 True - 2 False
+52 gnm-3000-4500-0 3000 10 True - 0 False
+53 common-1-3000 3000 6 False - 1 False
+54 increase-n100-2 100 1 - 13 2 True
+55 common-2-4500 4500 4 False - 1 True
+56 gnm-2000-4000-1 2000 5 True - 0 False
+57 common-2-5757 5757 4 False - 1 True
+58 rusty-2-4000 4000 4 True - 0 False
+59 gnm-2000-4000-0 2000 6 True - 0 False
+60 increase-n100-1 100 -1 - -1 -1 False
+61 wall-n-2 16 1 False - 0 False
+62 grid-5-0 25 14 True - 0 True
+63 common-1-250 250 -1 False - -1 False
+64 common-2-2000 2000 4 False - 1 True
+65 rusty-2-2500 2500 4 True - 0 False
+66 grid-5-1 25 8 True - 0 True
+67 wall-n-3 24 1 False - 0 False
+68 wall-n-1 8 1 True - 0 False
+69 rusty-1-5000 5000 7 True - 0 False
+70 smallworld-40-0 1600 8 True - 0 False
+71 wall-n-10000 80000 1 False - 0 False
+72 common-1-1000 1000 -1 False - -1 False
+73 smallworld-40-1 1600 13 False - 1 True
+74 grid-5-2 25 -1 True - 1 True
+75 common-1-20 20 -1 False - -1 False
+76 grid-50-1 2500 521 True - 0 False
+77 increase-n500-2 500 1 - 16 1 True
+78 smallworld-10-0 100 6 True - 0 False
+79 increase-n10-1 10 1 - 2 1 True
+80 rusty-1-4500 4500 7 True - 0 False
+81 common-1-100 100 -1 False - -1 False
+82 smallworld-10-1 100 8 True - 0 True
+83 increase-n500-3 500 1 - 15 1 True
+84 wall-n-100 800 1 False - 0 False
+85 common-1-4000 4000 6 False - 1 False
+86 grid-50-0 2500 1249 True - 0 False
+87 rusty-1-5757 5757 7 True - 0 False
+88 ski-level3-1 16 5 - 3 1 True
+89 common-2-3500 3500 4 False - 1 True
+90 ski-level3-3 15 5 - 1 0 False
+91 ski-illustration 36 8 - 1 0 False
+92 smallworld-3-1 9 2 False - 1 False
+93 grid-50-2 2500 -1 False - 11 False
+94 increase-n500-1 500 1 - 15 2 True
+95 increase-n10-2 10 1 - 3 2 True
+96 increase-n10-3 10 -1 - -1 -1 False
+97 rusty-2-3000 3000 4 True - 0 False
+98 smallworld-3-0 9 4 False - 1 False
+99 ski-level3-2 14 5 - 1 0 False
+100 wall-p-10 62 1 True - 0 False
+101 ski-level10-2 76 -1 - 4 1 False
+102 gnm-5000-10000-0 5000 5 False - 2 False
+103 common-2-1500 1500 4 False - 1 True
+104 common-2-5000 5000 4 False - 1 True
+105 increase-n8-3 8 1 - 1 0 True
+106 rusty-1-17 17 10 True - 0 False
+107 increase-n8-2 8 1 - 1 1 True
+108 gnm-5000-10000-1 5000 5 False - 1 True
+109 ski-level5-1 29 -1 - 3 1 False
+110 ski-level10-3 77 -1 - 7 4 False
+111 rusty-1-2000 2000 -1 False - -1 False
+112 common-1-500 500 -1 False - -1 False
+113 smallworld-30-0 900 9 True - 0 False
+114 ski-level10-1 79 -1 - -1 -1 False
+115 ski-level5-3 27 7 - 0 0 False
+116 increase-n8-1 8 1 - 2 1 True
+117 ski-level5-2 26 -1 - 2 1 False
+118 common-1-2500 2500 6 False - 1 False
+119 wall-z-100 701 1 False - 0 False
+120 smallworld-30-1 900 11 False - 1 True
+121 rusty-2-5000 5000 4 True - 0 False
+122 wall-z-1 8 1 True - 0 False
+123 P3 3 -1 True - 1 True
+124 common-2-1000 1000 4 False - 1 True
+125 wall-z-2 15 1 False - 0 False
+126 common-1-2000 2000 -1 False - -1 False
+127 wall-z-3 22 1 False - 0 False
+128 rusty-1-2500 2500 -1 False - -1 False
+129 common-2-100 100 -1 False - -1 False
+130 common-1-4500 4500 6 False - 1 True
+131 grid-10-0 100 49 True - 0 False
+132 common-2-500 500 4 False - 1 True
+133 smallworld-50-1 2500 -1 False - 2 True
+134 common-1-5757 5757 6 False - 1 True
+135 smallworld-50-0 2500 3 True - 0 False
+136 increase-n50-1 50 -1 - -1 -1 False
+137 rusty-1-4000 4000 13 True - 0 False
+138 common-1-50 50 -1 False - -1 False
+139 grid-10-1 100 29 True - 0 False
+140 gnm-4000-8000-1 4000 6 False - 2 True
+141 wall-n-10 80 1 False - 0 False
+142 wall-z-4 29 1 False - 0 False
+143 increase-n50-3 50 1 - 4 1 True
+144 gnm-10-20-0 10 3 False - 1 False
+145 rusty-2-3500 3500 4 True - 0 False
+146 wall-p-100 602 1 True - 0 False
+147 increase-n50-2 50 1 - 5 1 True
+148 gnm-10-20-1 10 3 False - 2 True
+149 G-ex 8 3 True - 0 True
+150 common-2-3000 3000 4 False - 1 True
+151 grid-10-2 100 -1 True - 2 True
+152 gnm-4000-8000-0 4000 5 True - 0 False
+153 wall-z-10 71 1 False - 0 False
